@@ -3,11 +3,10 @@ RocketSeat Challenge - Nível intermediário
 
 LINK: https://wdyitz.github.io/RocketCoffeeUI/
 
-# MENU MOBILE
+# MOBILE VERSION
 <div>
 <img src="https://github.com/WDYitz/RocketCoffeeUI/assets/112505107/c5620a81-da97-45ea-8804-4cf4ab17e567" width="320px"/>
-  <br/>
-# MOBILE VERSION
+
 <img src="https://github.com/WDYitz/RocketCoffeeUI/assets/112505107/6cfb1b2e-02e9-4019-95a0-eca98d260112" width="320px"/> 
 </div>
   
