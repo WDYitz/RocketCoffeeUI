@@ -1,0 +1,45 @@
+.Header {
+    height: 58.5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px 40px 30px;
+    margin-top: 40px;
+    border-bottom: 1.50px var(--border) solid;
+
+}
+
+@media screen and (min-width: 1100px) {
+    .Header {
+        margin-top: 80px;
+        border-bottom: 0;
+        padding: 0 40px 40px 40px;
+    }
+
+    .Header img:hover {
+        animation: flutuar ease-in-out 10s infinite;
+    }
+}
+
+@media screen and (min-width: 1600px) {
+    .Header {
+        margin-top: 80px;
+        border-bottom: 0;
+        padding: 0 170px 40px 170px;
+    }
+}
+
+/** ANIMATIONS */
+@keyframes flutuar {
+    0% {
+        transform: translateY(0px);
+    }
+
+    50% {
+        transform: translateY(-20px);
+    }
+
+    100% {
+        transform: translateY(0px);
+    }
+}
