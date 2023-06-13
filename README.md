@@ -1,7 +1,7 @@
 # RocketCoffeeUI
 RocketSeat Challenge - Nível intermediário
 
-DESENVOLVIDO COM REACT/VITE
+Desenvolvido com  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50px"/>
 
 LINK: https://wdyitz.github.io/RocketCoffeeUI/
 
