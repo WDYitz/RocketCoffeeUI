@@ -1,6 +1,8 @@
 # RocketCoffeeUI
 RocketSeat Challenge - Nível intermediário
 
+DESENVOLVIDO COM REACT/VITE
+
 LINK: https://wdyitz.github.io/RocketCoffeeUI/
 
 # MOBILE VERSION
